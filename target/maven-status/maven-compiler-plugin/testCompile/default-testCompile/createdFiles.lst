@@ -1,0 +1,6 @@
+com\minhasfinancas\service\UsuarioServiceTest.class
+com\minhasfinancas\model\repository\UsuarioRepositoryTest.class
+com\minhasfinancas\service\LancamentoServiceTest.class
+com\minhasfinancas\api\resource\UsuarioResourceTest.class
+com\minhasfinancas\MinhasfinancasApplicationTests.class
+com\minhasfinancas\model\repository\LancamentoRepositoryTest.class

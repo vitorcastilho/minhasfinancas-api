@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.minhasfinancas.model.repository.LancamentoRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.545 s - in com.minhasfinancas.model.repository.LancamentoRepositoryTest
